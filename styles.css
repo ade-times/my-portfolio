@@ -126,6 +126,10 @@ footer {
             "item6";
     }
 
+    header{
+        width: 100%;
+    }
+
     /*  The following is optional but will center the items on mobile */
     .grid-item {
         text-align: center; /* Center content within grid items */
